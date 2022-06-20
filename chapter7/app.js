@@ -5,7 +5,6 @@
 //   });
 // });
 
-
 // HTML要素直下のすべての子要素を取得するときに使用
 $(function(){
   $('button').on('click', function(){
